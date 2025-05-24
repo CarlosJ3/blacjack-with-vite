@@ -26,7 +26,6 @@ import _ from 'underscore';
     }
 
 
-    x
     for( let tipo of tiposDeCarta ) {
         for( let esp of TiposEspeciales ) {
             deck.push( esp + tipo);
